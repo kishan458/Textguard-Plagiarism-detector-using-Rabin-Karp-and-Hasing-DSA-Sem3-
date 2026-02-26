@@ -103,7 +103,7 @@ cd TextGuard-Ultra</code></pre>
 <pre><code>pip install streamlit numpy scikit-learn</code></pre>
 
 <h3>3. Run the Platform</h3>
-<pre><code>streamlit run main.py</code></pre>
+<pre><code>streamlit run PlagiarsmDetector1.py</code></pre>
 
 <hr />
 
